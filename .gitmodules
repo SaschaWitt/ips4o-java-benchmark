@@ -1,0 +1,4 @@
+[submodule "external/ips4o-verify"]
+	path = external/ips4o-verify
+	url = https://github.com/jwiesler/ips4o-verify.git
+	branch = bench
